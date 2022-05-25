@@ -1,7 +1,8 @@
 find a pizza place to order from
 look at menu
 decide which pizza to order
-edit toppings, crust etc if desired
+    choose pizza size
+    choose pizza sauce and toppings
 decide to order online
     add pizza to cart
     enter delivery details
