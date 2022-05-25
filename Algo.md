@@ -14,3 +14,7 @@ decide to order over the phone
     give delivery and payment details
 wait for delivery
 PIZZA TIME
+    get out plates
+    get out napkins
+    add a side of ranch :)
+    enjoy your pizza
