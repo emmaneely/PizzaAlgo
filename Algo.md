@@ -1,4 +1,7 @@
 * find a pizza place to order from  
+    * google  
+    * yelp  
+    * facebook recommendation  
 * look at menu  
 * decide which pizza to order  
     * choose pizza size  
